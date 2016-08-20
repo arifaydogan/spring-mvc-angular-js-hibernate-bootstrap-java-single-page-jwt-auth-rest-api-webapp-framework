@@ -12,8 +12,8 @@
         <property name="hibernate.show_sql">true</property>
 
         <!-- Map the app related object entity classes here -->
-        <mapping class="yourwebproject2.model.entity.User" />
-        <mapping class="yourwebproject2.model.entity.Job" />
-        <mapping class="yourwebproject2.model.entity.Category" />
+        <mapping class="com.limos.model.entity.User" />
+        <mapping class="com.limos.model.entity.Job" />
+        <mapping class="com.limos.model.entity.Category" />
     </session-factory>
 </hibernate-configuration>

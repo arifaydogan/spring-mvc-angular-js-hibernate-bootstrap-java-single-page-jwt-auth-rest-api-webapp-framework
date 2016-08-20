@@ -4,8 +4,8 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
                             http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
-        id="yourwebproject2" version="2.5">
-    <display-name>Your Web Project 2</display-name>
+        id="limos" version="2.5">
+    <display-name>Limos Web-Project</display-name>
 
     <!-- Spring Framework Configuration -->
     <context-param>
@@ -54,7 +54,7 @@
     <servlet>
         <servlet-name>webAppDispatcherServlet</servlet-name>
         <servlet-class>
-            yourwebproject2.servlet.YourWebAppDispatcherServlet
+            com.limos.servlet.YourWebAppDispatcherServlet
         </servlet-class>
         <init-param>
             <param-name>contextConfigLocation</param-name>

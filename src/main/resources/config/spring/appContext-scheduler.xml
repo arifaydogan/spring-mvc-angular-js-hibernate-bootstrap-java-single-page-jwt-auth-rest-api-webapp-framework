@@ -9,6 +9,6 @@
 
     <task:annotation-driven/>
 
-    <bean id="newJobSchedulingWorker" class="yourwebproject2.core.NewJobSchedulingWorker"/>
-    <bean id="retryJobSchedulingWorker" class="yourwebproject2.core.RetryJobSchedulingWorker"/>
+    <bean id="newJobSchedulingWorker" class="com.limos.core.NewJobSchedulingWorker"/>
+    <bean id="retryJobSchedulingWorker" class="com.limos.core.RetryJobSchedulingWorker"/>
 </beans>

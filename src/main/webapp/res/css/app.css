@@ -1,0 +1,6 @@
+.main-bg{
+    background-image: url("../img/main-cover.jpg");
+    max-width: 100%;
+    height: auto;
+    display:block;
+}

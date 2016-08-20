@@ -1,5 +1,5 @@
 /**
- * Created by Y.Kamesh on 4/8/2015.
+ * Created by arifaydogan on 01/08/2016.
  */
 angular.module('App')
     .controller('AppController', AppController);

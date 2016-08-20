@@ -48,7 +48,7 @@ I have heavily referenced many external links and books while creating this proj
 2. https://github.com/jwtk/jjwt
 
 ### ScreenShots ###
-![Home Page](https://github.com/ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework/blob/master/screenshots/HomePage.png)
+![Home Page](https://github.com/yarifaydoganrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework/blob/master/screenshots/HomePage.png)
 
 ![Registration Page w/ Validation](https://github.com/ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework/blob/master/screenshots/RegisterWithValidationFail.png)
 

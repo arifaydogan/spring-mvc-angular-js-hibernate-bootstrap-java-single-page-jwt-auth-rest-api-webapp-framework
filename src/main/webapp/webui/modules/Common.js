@@ -1,10 +1,10 @@
 /**
- * Created by Y.Kamesh on 4/14/2015.
+ * Created by arifaydogan on 01/08/2016.
  */
 var commonModule = angular.module('App.Common', []);
 
 commonModule.constant('BackendCfg',  {
-    url: 'http://localhost:8080',
+    url: 'http://localhost:8081',
     setupHttp: function(http) {
         http.defaults.useXDomain = true;
         http.defaults.withCredentials = true;

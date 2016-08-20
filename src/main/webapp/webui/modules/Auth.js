@@ -1,4 +1,4 @@
 /**
- * Created by Y.Kamesh on 4/13/2015.
+ * Created by arifaydogan on 01/08/2016.
  */
 angular.module('App.Auth', [])
